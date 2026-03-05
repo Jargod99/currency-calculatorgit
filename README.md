@@ -1,7 +1,3 @@
-# Currency - calculator
-![Demo](img/demo.png)
-
-## Demo
-https://jargod99.github.io/currency-calculatorgit/
-
-
+Currency - calculator
+Demo
+https://jar god99.github.io/currency-calculatorgit/
